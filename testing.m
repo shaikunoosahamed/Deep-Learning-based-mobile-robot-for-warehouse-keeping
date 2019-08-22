@@ -14,7 +14,7 @@ b=.1*rand(3,1);
 flag=-1;
 maxx=-6;
 for i=1:200000
-    maxx=-5;
+    maxx=-5;jmnn
  for j=1:10
      h=a*s(j) + b;
      
